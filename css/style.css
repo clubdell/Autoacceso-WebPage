@@ -20,6 +20,13 @@ a:hover, a:active, a:focus {
 
 p {
   padding: 0;
+  color: #fff;
+  margin: 0 0 30px 0;
+}
+
+j {
+  padding: 0;
+  color: #100F0E;
   margin: 0 0 30px 0;
 }
 
@@ -190,6 +197,8 @@ h1, h2, h3, h4, h5, h6 {
     width: 60%;
   }
 }
+
+
 
 #intro .carousel-fade .carousel-inner .carousel-item {
   -webkit-transition-property: opacity;
@@ -988,12 +997,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item .portfolio-info p {
   padding: 0;
   margin: auto;
-  color: #b8b8b8;
+  color: #100F0E;
   font-weight: 500;
   font-size: 17px;
 }
 
-/* Clients Section
+/* News Section
 --------------------------------*/
 #clients {
   padding: 60px 0;
